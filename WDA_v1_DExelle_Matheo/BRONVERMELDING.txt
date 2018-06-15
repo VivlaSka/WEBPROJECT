@@ -1,0 +1,2 @@
+Mailing: https://stackoverflow.com/questions/8239782/how-to-create-an-email-form-that-can-send-email-using-html
+Bootstrap + Leren over Bootstrap: https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
